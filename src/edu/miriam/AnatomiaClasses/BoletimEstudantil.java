@@ -1,4 +1,4 @@
-package edu.miriam.primeiraSemana;
+package edu.miriam.AnatomiaClasses;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {

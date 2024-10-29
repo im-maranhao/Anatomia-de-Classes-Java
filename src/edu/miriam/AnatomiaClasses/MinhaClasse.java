@@ -1,4 +1,4 @@
-package edu.miriam.segundaSemana;
+package edu.miriam.AnatomiaClasses;
 
 public class MinhaClasse{
 
