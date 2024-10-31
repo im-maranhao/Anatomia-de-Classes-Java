@@ -6,7 +6,6 @@ public class TiposVariaveis {
         String meuNome = "Miriam";
         String sobreNome = "Maranhão";
 
-
         double salarioMinimo = 2500;
 
         short numeroCurto = 1;
