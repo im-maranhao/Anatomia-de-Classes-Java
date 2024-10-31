@@ -4,7 +4,7 @@ public class TiposVariaveis {
     public static void main(String[] args) {
         
         String meuNome = "Miriam Maranhao";
-        String sobreNome
+        String sobreNome = 
 
 
         double salarioMinimo = 2500;
