@@ -3,7 +3,8 @@ package edu.miriam.tiposVariaveis;
 public class TiposVariaveis {
     public static void main(String[] args) {
         
-        String meuNome = "Miriam Maranhao";
+        String meuNome = "Miriam";
+        String sobreNome = "Maranhão";
 
         double salarioMinimo = 2500;
 
